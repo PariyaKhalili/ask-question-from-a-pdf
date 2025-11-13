@@ -2,7 +2,7 @@
 
 A beautiful Gradio-based web application that provides intelligent question-answering capabilities in Persian (Farsi) using Retrieval-Augmented Generation (RAG) with LangChain.
 
-![Example](https://github.com/PariyaKhalili/smart-image-generator-app/blob/main/assets/app_ui.jpg)
+![Example](https://github.com/PariyaKhalili/ask-question-from-a-pdf/blob/main/assets/app_ui.jpg)
 
 ## ✨ Features
 
